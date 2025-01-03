@@ -52,6 +52,6 @@ The **Personal Finance Dashboard** offers an interactive and insightful way to a
 ---
 
 ## 📎 Resources   
-- **Tutorial Video:** [Tutorial Video](https://youtu.be/pqSoCa2NGj4?si=SKpbm9st9votM8IP)  
-- **Power BI Service Dashboard:** [Power BI Service Dashboard](https://app.powerbi.com/links/2SIdIyeZVX?ctid=2f313ec5-161d-4e8e-ba72-3e09a9944908&pbi_source=linkShare)
+- [Tutorial Video](https://youtu.be/pqSoCa2NGj4?si=SKpbm9st9votM8IP)  
+- [Power BI Service Dashboard](https://app.powerbi.com/links/2SIdIyeZVX?ctid=2f313ec5-161d-4e8e-ba72-3e09a9944908&pbi_source=linkShare)
 
